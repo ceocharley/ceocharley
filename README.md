@@ -1,8 +1,6 @@
-Hi, My name is Charley 👋
+<h1>Hi, My name is Charley 👋</h1>
+<p>I'm learning frontend web development.</p>
 ========================
-
-I'm learning frontend web development.
---------------------------------------
 
 * 🌍  I'm based in California, USA
 * ✉️  You can contact me at [hello@charley.wtf](mailto:hello@charley.wtf)
