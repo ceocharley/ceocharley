@@ -1,4 +1,4 @@
-Hi 👋 My name is Charley
+Hi, My name is Charley 👋
 ========================
 
 I'm learning frontend web development.
