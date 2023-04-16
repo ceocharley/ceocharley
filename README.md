@@ -1,4 +1,4 @@
-##hiya, welcome to my profile.
+## hiya, welcome to my profile.
 i'm a frontend web developer that especially likes to make things look good. i also know a few other languages and have a few other skills, which can be seen below;
 
 
